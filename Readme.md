@@ -4,9 +4,7 @@
 ![Flask](https://img.shields.io/badge/Framework-Flask-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red)
 ![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-orange)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Firebase](https://img.shields.io/badge/Cloud-Firebase-yellow)
+
 
 ## 1. Introduction
 
