@@ -1,0 +1,3 @@
+websockets
+asyncio
+opencv-contrib-python
